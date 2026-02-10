@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    background-color: #3C3D49;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left:20;
+    margin-left:20;
+}
+
+.sidebar {
+    height: 100%;
+    width: 20%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #A6A591;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+}
+
+#sidebar-bottom {
+    top: 85%;
+}
